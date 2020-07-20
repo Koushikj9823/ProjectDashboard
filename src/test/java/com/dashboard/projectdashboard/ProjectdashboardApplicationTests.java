@@ -1,4 +1,4 @@
-package com.agileintelligence.projectdashboard;
+package com.dashboard.projectdashboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
