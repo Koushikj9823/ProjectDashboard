@@ -4,7 +4,8 @@ It also provides user to Add,update and delete project task.
 
 TechStack Used:
 
-Front End: React.js,Redux
+Front End: Html,Bootstrap,React,Redux
+
 Back End: Spring boot,H2 Database(To store temporary data)
 
 
