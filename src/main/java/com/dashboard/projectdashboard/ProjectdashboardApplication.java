@@ -1,4 +1,4 @@
-package com.agileintelligence.projectdashboard;
+package com.dashboard.projectdashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

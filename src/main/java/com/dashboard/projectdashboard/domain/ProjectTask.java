@@ -1,4 +1,4 @@
-package com.agileintelligence.projectdashboard.domain;
+package com.dashboard.projectdashboard.domain;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

@@ -1,6 +1,6 @@
-    package com.agileintelligence.projectdashboard.repository;
+    package com.dashboard.projectdashboard.repository;
 
-    import com.agileintelligence.projectdashboard.domain.ProjectTask;
+    import com.dashboard.projectdashboard.domain.ProjectTask;
     import org.springframework.data.repository.CrudRepository;
     import org.springframework.stereotype.Repository;
 

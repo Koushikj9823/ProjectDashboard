@@ -1,7 +1,7 @@
-    package com.agileintelligence.projectdashboard.web;
+    package com.dashboard.projectdashboard.web;
 
-    import com.agileintelligence.projectdashboard.domain.ProjectTask;
-    import com.agileintelligence.projectdashboard.service.ProjectTaskService;
+    import com.dashboard.projectdashboard.domain.ProjectTask;
+    import com.dashboard.projectdashboard.service.ProjectTaskService;
     import org.springframework.beans.factory.annotation.Autowired;
     import org.springframework.http.HttpStatus;
     import org.springframework.http.ResponseEntity;

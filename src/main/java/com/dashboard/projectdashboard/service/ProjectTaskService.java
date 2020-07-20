@@ -1,7 +1,7 @@
-    package com.agileintelligence.projectdashboard.service;
+    package com.dashboard.projectdashboard.service;
 
-    import com.agileintelligence.projectdashboard.domain.ProjectTask;
-    import com.agileintelligence.projectdashboard.repository.ProjectTaskRepository;
+    import com.dashboard.projectdashboard.domain.ProjectTask;
+    import com.dashboard.projectdashboard.repository.ProjectTaskRepository;
     import org.springframework.beans.factory.annotation.Autowired;
     import org.springframework.stereotype.Service;
 
