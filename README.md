@@ -6,7 +6,7 @@ TechStack Used:
 
 Front End: Html,Bootstrap,React,Redux
 
-Back End: Spring boot,H2 Database(To store temporary data)
+Back End: Spring boot,H2 Database
 
 
 ![Project Dashboard](https://github.com/Koushikj9823/ProjectDashboard/blob/master/images/Dashboard.png)
