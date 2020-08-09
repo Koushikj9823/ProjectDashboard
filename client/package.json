@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "proxy": "https://projectdashboard98.herokuapp.com"
 }
