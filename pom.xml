@@ -125,7 +125,7 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>project-dashboard</finalName>
+        <finalName>project-task-tracker</finalName>
     </build>
 
 </project>
