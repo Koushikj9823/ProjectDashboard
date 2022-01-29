@@ -13,7 +13,11 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>project-task-tracker</name>
     <description>A Web Interface to track the status of the project</description>
-
+    <profiles>
+        <profile>
+            <id>project-task-tracker</id>
+        </profile>
+    </profiles>
     <properties>
         <java.version>1.8</java.version>
     </properties>
